@@ -1,0 +1,7 @@
+{
+  "name": "Physics Teacher – Quản lý học sinh THPT",
+  "description": "Hệ thống quản lý học sinh, lớp học, bài tập Vật lý và đề kiểm tra dành cho giáo viên THPT các khối 10, 11, 12.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
